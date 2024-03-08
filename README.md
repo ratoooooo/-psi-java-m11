@@ -1,4 +1,4 @@
-# Bem vindo ao meu repusitorio!
+﻿# Bem vindo ao meu repusitorio!
 (/![Java logo and symbol, meaning, history, PNG](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png))
 
 ## Git
@@ -23,3 +23,6 @@ Exceções em Java para collections são erros durante operações como adição
 
 Exceções em Java para streams ocorrem durante operações de transformação, filtro ou coleta de dados devido a erros ou condições inesperadas.
 ![Stream In Java - GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20230705133732/Stream-in-Java-768.png)
+
+## Macaco
+OP macaco é um animal
