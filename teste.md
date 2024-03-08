@@ -1,5 +1,4 @@
-Welcome file
-Welcome file
+
 # Bem vindo ao meu repusitorio!
 (/![Java logo and symbol, meaning, history, PNG](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png))
 
